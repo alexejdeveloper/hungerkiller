@@ -6,7 +6,7 @@ const selectType = (content, media) => {
         return content;
     } else {
         return (
-            <img src={content} alt="img"></img>
+            <img src={content} alt="img" className={styles.imgContent}></img>
         );
     }
 }

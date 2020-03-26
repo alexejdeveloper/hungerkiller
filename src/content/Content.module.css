@@ -11,3 +11,9 @@
     font-size: 1.6rem;
     margin-top: 4rem;
   }
+
+.imgContent {
+        border-radius: 60px;
+        width: auto;
+        height: 80%;
+}
