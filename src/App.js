@@ -7,11 +7,12 @@ import { Menu } from './menu/Menu';
 
 const App = () => {
   const [content, setContent] = useState('Пришло время похудеть!');
+  const [mediaType, setMediaType] = useState(0);
   return (
     <div className={styles.main}>
       <Menu />
-      <Content content={content} />
-      <Button buttonClick={setContent} />
+      <Content content={content} media={mediaType}/>
+      <Button buttonClick={setContent} media={setMediaType}/>
     </div>
   );
 }

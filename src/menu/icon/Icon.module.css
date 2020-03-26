@@ -8,11 +8,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 10s ease-in;
+    transition: all .1s ease-in;
 }
 
 .iconContainer:active {
-    background: linear-gradient(145deg, #ffffff, #ffffff);
+    width: 5.4rem;
+    height: 5.4rem;
 }
 
 

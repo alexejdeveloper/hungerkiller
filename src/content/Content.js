@@ -1,11 +1,20 @@
 import React from 'react';
 import styles from './Content.module.css';
 
+const selectType = (content, media) => {
+    if (media === 0) {
+        return content;
+    } else {
+        return (
+            <img src={content} alt="img"></img>
+        );
+    }
+}
 
 export const Content = props => {
     return (
         <div className={styles.content}>
-            <h1>{props.content}</h1>
+            {selectType(props.content, props.media)}
         </div>
     );
 };

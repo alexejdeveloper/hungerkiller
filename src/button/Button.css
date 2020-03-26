@@ -9,7 +9,7 @@
             -webkit-animation: buttonAnimation 4s linear infinite;
             animation: buttonAnimation 4s linear infinite;
             transition: all .3s;
-            margin-bottom: 10rem;
+            margin-bottom: 4rem;
         }
         
 .button:active {
