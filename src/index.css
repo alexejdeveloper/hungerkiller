@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
-*,
+@import url('https://fonts.googleapis.com/css?family=Roboto:300&display=swap&subset=cyrillic');
+
 *::before,
 *::after {
   margin: 0;
@@ -20,5 +20,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
   background-color: #5acced;
+  color: #fff;
 }
 /*# sourceMappingURL=index.css.map */

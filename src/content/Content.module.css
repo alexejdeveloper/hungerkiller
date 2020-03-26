@@ -3,9 +3,11 @@
     background: #5acced;
     -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
             box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
-    width: 80%;
-    height: 20rem;
+    width: 70%;
+    height: 22rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1.6rem;
+    margin-top: 10rem;
   }

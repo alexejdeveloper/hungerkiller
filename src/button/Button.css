@@ -3,14 +3,21 @@
     background: #5acced;
     -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
             box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
-    width: 14rem;
-    height: 14rem;
-    cursor: pointer;
-    -webkit-animation: buttonAnimation 4s linear infinite;
+            width: 14rem;
+            height: 14rem;
+            cursor: pointer;
+            -webkit-animation: buttonAnimation 4s linear infinite;
             animation: buttonAnimation 4s linear infinite;
-  }
+            transition: all .3s;
+            margin-bottom: 10rem;
+        }
+        
+.button:active {
+    width: 15rem;
+    height: 15rem;
+}
   
-  @keyframes buttonAnimation {
+@keyframes buttonAnimation {
     0% {
         transform: rotate(0deg);
     }
