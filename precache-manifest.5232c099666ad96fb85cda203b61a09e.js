@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9afdd9d55ba152ecf4f6e74b69687c95",
+    "revision": "62380896017f3511ad99cfb4bffa2666",
     "url": "/hungerkiller/index.html"
   },
   {
-    "revision": "8a3d5beff6b8a7ba28c1",
-    "url": "/hungerkiller/static/css/main.243cc6c2.chunk.css"
+    "revision": "5a171e63da045a488610",
+    "url": "/hungerkiller/static/css/main.c1d7dc8a.chunk.css"
   },
   {
-    "revision": "1583aa648928d0f5dbe9",
-    "url": "/hungerkiller/static/js/2.6e05811a.chunk.js"
+    "revision": "0c42bcce2872816a3d35",
+    "url": "/hungerkiller/static/js/2.0140bbad.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hungerkiller/static/js/2.6e05811a.chunk.js.LICENSE.txt"
+    "url": "/hungerkiller/static/js/2.0140bbad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a3d5beff6b8a7ba28c1",
-    "url": "/hungerkiller/static/js/main.4ff53151.chunk.js"
+    "revision": "5a171e63da045a488610",
+    "url": "/hungerkiller/static/js/main.0321c94b.chunk.js"
   },
   {
     "revision": "ea8d7294fba52769205a",
