@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hungerkiller/static/css/main.0ebe6de4.chunk.css",
-    "main.js": "/hungerkiller/static/js/main.5acf38f2.chunk.js",
-    "main.js.map": "/hungerkiller/static/js/main.5acf38f2.chunk.js.map",
+    "main.css": "/hungerkiller/static/css/main.97b8dce6.chunk.css",
+    "main.js": "/hungerkiller/static/js/main.134cb024.chunk.js",
+    "main.js.map": "/hungerkiller/static/js/main.134cb024.chunk.js.map",
     "runtime-main.js": "/hungerkiller/static/js/runtime-main.3228def7.js",
     "runtime-main.js.map": "/hungerkiller/static/js/runtime-main.3228def7.js.map",
-    "static/js/2.1f40b57a.chunk.js": "/hungerkiller/static/js/2.1f40b57a.chunk.js",
-    "static/js/2.1f40b57a.chunk.js.map": "/hungerkiller/static/js/2.1f40b57a.chunk.js.map",
+    "static/js/2.33e136ec.chunk.js": "/hungerkiller/static/js/2.33e136ec.chunk.js",
+    "static/js/2.33e136ec.chunk.js.map": "/hungerkiller/static/js/2.33e136ec.chunk.js.map",
     "index.html": "/hungerkiller/index.html",
-    "precache-manifest.38e4f6126479fd2cb0e92b084f8d278b.js": "/hungerkiller/precache-manifest.38e4f6126479fd2cb0e92b084f8d278b.js",
+    "precache-manifest.6b997e8fa038588b21fc85daeef3b8e6.js": "/hungerkiller/precache-manifest.6b997e8fa038588b21fc85daeef3b8e6.js",
     "service-worker.js": "/hungerkiller/service-worker.js",
-    "static/css/main.0ebe6de4.chunk.css.map": "/hungerkiller/static/css/main.0ebe6de4.chunk.css.map",
-    "static/js/2.1f40b57a.chunk.js.LICENSE.txt": "/hungerkiller/static/js/2.1f40b57a.chunk.js.LICENSE.txt"
+    "static/css/main.97b8dce6.chunk.css.map": "/hungerkiller/static/css/main.97b8dce6.chunk.css.map",
+    "static/js/2.33e136ec.chunk.js.LICENSE.txt": "/hungerkiller/static/js/2.33e136ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3228def7.js",
-    "static/js/2.1f40b57a.chunk.js",
-    "static/css/main.0ebe6de4.chunk.css",
-    "static/js/main.5acf38f2.chunk.js"
+    "static/js/2.33e136ec.chunk.js",
+    "static/css/main.97b8dce6.chunk.css",
+    "static/js/main.134cb024.chunk.js"
   ]
 }
