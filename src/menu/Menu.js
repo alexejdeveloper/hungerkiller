@@ -4,10 +4,10 @@ import { Icon } from './icon/Icon';
 import { Nav } from './nav/Nav';
 
 export const Menu = props => {
-    const [position, setPostition] = useState('-28rem');
+    const [position, setPosition] = useState('-28rem');
     return (
         <div className={styles.menuContainer} style={{left: position}}>
-            <div className={styles.icon}><Icon changePosition={setPostition} oldPosition={position}/></div>
+            <Icon setPosition={setPosition} oldPosition={position}/>
             <Nav />
         </div>
     );

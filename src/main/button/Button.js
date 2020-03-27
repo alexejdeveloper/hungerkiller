@@ -27,27 +27,26 @@ const contentArray = [
 ]
 
 let intLast = 0;
-const changeContent = (changeState, setMedia) => {
+const buttonClick = (setContent, setMediaType) => {
     let intArray = Math.floor(Math.random() * contentArray.length);
-    console.log(intArray);
     if (intArray === 0) {
-        setMedia(intArray);
+        setMediaType(intArray);
         let int = Math.floor(Math.random() * contentArray[intArray].length);
         if (intLast !== int) {
-            changeState(contentArray[intArray][int]);
+            setContent(contentArray[intArray][int]);
             intLast = int;
         } else {
-            changeContent(changeState, setMedia);
+            buttonClick(setContent, setMediaType);
         }
     } else {
-        setMedia(intArray);
+        setMediaType(intArray);
         let pic = Math.floor(Math.random() * contentArray[intArray].length);
         if (intLast !== pic) {
             let src = `${contentArray[intArray][pic]}`;
-            changeState(src);
+            setContent(src);
             intLast = pic;
         } else {
-            changeContent(changeState, setMedia);
+            buttonClick(setContent, setMediaType);
         }
     }
 
@@ -56,6 +55,6 @@ const changeContent = (changeState, setMedia) => {
 
 export const Button = props => {
     return (
-        <div className='button' onClick={() => changeContent(props.buttonClick, props.media)}></div>
+        <div className='button' onClick={() => buttonClick(props.setContent, props.setMediaType)}></div>
     );
 };

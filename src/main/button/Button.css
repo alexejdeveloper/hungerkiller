@@ -12,11 +12,8 @@
         }
         
 .button:active {
-    height: 15rem;
-    width: 15rem;
     background: whitesmoke;
 }
-
 
 @keyframes buttonAnimation {
     0% {

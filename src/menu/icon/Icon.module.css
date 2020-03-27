@@ -1,4 +1,7 @@
 .iconContainer {
+    position: absolute;
+    right: -8rem;
+    top: 3rem;
     width: 5rem;
     height: 5rem;
     border-radius: 14px;
@@ -16,10 +19,8 @@
     height: 5.4rem;
 }
 
-
 .menuIcon {
     width: 70%;
     height: 70%;
     cursor: pointer;
-    
 }

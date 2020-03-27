@@ -5,7 +5,7 @@ import menu from './menu.png';
 
 let newPosition = "0rem";
 let statePosition = "";
-const changePosition = ( func, oldPosition ) => {
+const changePosition = (func, oldPosition) => {
     if (newPosition !== oldPosition) {
         statePosition = oldPosition;
         func(newPosition);
@@ -16,8 +16,8 @@ const changePosition = ( func, oldPosition ) => {
 
 export const Icon = props => {
     return (
-        <div className={styles.iconContainer} onClick={() => changePosition(props.changePosition, props.oldPosition)}>
-            <img src={menu} alt="menu" className={styles.menuIcon} />
-        </div>
+            <div className={styles.iconContainer} onClick={() => changePosition(props.setPosition, props.oldPosition)}>
+                <img src={menu} alt="menu" className={styles.menuIcon} />
+            </div>
     );
 };

@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './Content.module.css';
 
-const selectType = (content, media) => {
+const changeContent = (content, media) => {
     if (media === 0) {
         return content;
     } else {
@@ -14,7 +14,7 @@ const selectType = (content, media) => {
 export const Content = props => {
     return (
         <div className={styles.content}>
-            {selectType(props.content, props.media)}
+            {changeContent(props.content, props.mediaType)}
         </div>
     );
 };

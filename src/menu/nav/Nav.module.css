@@ -4,12 +4,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
 }
 
 .navTitle {
     font-size: 1.8rem;
     font-weight: normal;
+    margin-top: 3rem;
     margin-bottom: 6rem;
 }
 
@@ -24,6 +24,12 @@
     transition: all .3s;
 }
 
-.navLink:active {
-    font-size: 2.4rem;
+.logo_container {
+    height: 100%;
+    display: flex;
+}
+
+.logo {
+    align-self: flex-end;
+    margin-bottom: 8rem;
 }
