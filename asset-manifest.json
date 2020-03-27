@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hungerkiller/static/css/main.04552919.chunk.css",
+    "main.css": "/hungerkiller/static/css/main.33a8ec5d.chunk.css",
     "main.js": "/hungerkiller/static/js/main.92e9c5d4.chunk.js",
     "main.js.map": "/hungerkiller/static/js/main.92e9c5d4.chunk.js.map",
     "runtime-main.js": "/hungerkiller/static/js/runtime-main.3228def7.js",
@@ -8,9 +8,9 @@
     "static/js/2.7b56c9c4.chunk.js": "/hungerkiller/static/js/2.7b56c9c4.chunk.js",
     "static/js/2.7b56c9c4.chunk.js.map": "/hungerkiller/static/js/2.7b56c9c4.chunk.js.map",
     "index.html": "/hungerkiller/index.html",
-    "precache-manifest.1e3c43a7268338f0a1c2c00f0539b82e.js": "/hungerkiller/precache-manifest.1e3c43a7268338f0a1c2c00f0539b82e.js",
+    "precache-manifest.a7e0a7315f006e8ae3050886085fdf28.js": "/hungerkiller/precache-manifest.a7e0a7315f006e8ae3050886085fdf28.js",
     "service-worker.js": "/hungerkiller/service-worker.js",
-    "static/css/main.04552919.chunk.css.map": "/hungerkiller/static/css/main.04552919.chunk.css.map",
+    "static/css/main.33a8ec5d.chunk.css.map": "/hungerkiller/static/css/main.33a8ec5d.chunk.css.map",
     "static/js/2.7b56c9c4.chunk.js.LICENSE.txt": "/hungerkiller/static/js/2.7b56c9c4.chunk.js.LICENSE.txt",
     "static/media/image.jpg": "/hungerkiller/static/media/image.2f025597.jpg",
     "static/media/image2.jpg": "/hungerkiller/static/media/image2.a549d6d1.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3228def7.js",
     "static/js/2.7b56c9c4.chunk.js",
-    "static/css/main.04552919.chunk.css",
+    "static/css/main.33a8ec5d.chunk.css",
     "static/js/main.92e9c5d4.chunk.js"
   ]
 }
