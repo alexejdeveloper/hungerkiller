@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hungerkiller/precache-manifest.8847d2d7acf64f305259d01085a65e30.js"
+  "/hungerkiller/precache-manifest.b1d38a5d4730844b5e9e84b79e62b83c.js"
 );
 
 self.addEventListener('message', (event) => {
