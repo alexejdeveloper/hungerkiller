@@ -8,4 +8,5 @@
     -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
             box-shadow: 10px 10px 60px #3b879c, -10px -10px 10px #79ffff;
             border-radius: 0 20px 20px 0;
+    z-index: 1;
 }
