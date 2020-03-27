@@ -7,7 +7,7 @@ export const Nav = props => {
     return (
         <div className={styles.navList}>
             <h1 className={styles.navTitle}>Hunger Killer</h1>
-            <Link to="/" className={styles.navLink}>Home</Link>
+            <Link to="/hungerkiller" className={styles.navLink}>Home</Link>
             <Link to="/about" className={styles.navLink}>About</Link>
             <Link to="/contact" className={styles.navLink}>Contact</Link>
             <div className={styles.logo_container}>
