@@ -16,8 +16,8 @@ const changePosition = ( func, oldPosition ) => {
 
 export const Icon = props => {
     return (
-        <div className={styles.iconContainer}>
-            <img src={menu} alt="menu" className={styles.menuIcon} onClick={() => changePosition(props.changePosition, props.oldPosition)}/>
+        <div className={styles.iconContainer} onClick={() => changePosition(props.changePosition, props.oldPosition)}>
+            <img src={menu} alt="menu" className={styles.menuIcon} />
         </div>
     );
 };

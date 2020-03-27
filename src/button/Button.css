@@ -8,14 +8,16 @@
             cursor: pointer;
             -webkit-animation: buttonAnimation 4s linear infinite;
             animation: buttonAnimation 4s linear infinite;
-            transition: all .3s;
+            transition: all .5s;
         }
         
 .button:active {
-    width: 15rem;
     height: 15rem;
+    width: 15rem;
+    background: whitesmoke;
 }
-  
+
+
 @keyframes buttonAnimation {
     0% {
         transform: rotate(0deg);
