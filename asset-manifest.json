@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hungerkiller/static/css/main.33a8ec5d.chunk.css",
-    "main.js": "/hungerkiller/static/js/main.b7fa2936.chunk.js",
-    "main.js.map": "/hungerkiller/static/js/main.b7fa2936.chunk.js.map",
+    "main.css": "/hungerkiller/static/css/main.17ad300d.chunk.css",
+    "main.js": "/hungerkiller/static/js/main.c5fb4bb0.chunk.js",
+    "main.js.map": "/hungerkiller/static/js/main.c5fb4bb0.chunk.js.map",
     "runtime-main.js": "/hungerkiller/static/js/runtime-main.3228def7.js",
     "runtime-main.js.map": "/hungerkiller/static/js/runtime-main.3228def7.js.map",
     "static/js/2.98363d24.chunk.js": "/hungerkiller/static/js/2.98363d24.chunk.js",
     "static/js/2.98363d24.chunk.js.map": "/hungerkiller/static/js/2.98363d24.chunk.js.map",
     "index.html": "/hungerkiller/index.html",
-    "precache-manifest.1ae66f098cad1d5eb19ac828e799b01e.js": "/hungerkiller/precache-manifest.1ae66f098cad1d5eb19ac828e799b01e.js",
+    "precache-manifest.2df8ecd3362c349f5215407adc522edb.js": "/hungerkiller/precache-manifest.2df8ecd3362c349f5215407adc522edb.js",
     "service-worker.js": "/hungerkiller/service-worker.js",
-    "static/css/main.33a8ec5d.chunk.css.map": "/hungerkiller/static/css/main.33a8ec5d.chunk.css.map",
+    "static/css/main.17ad300d.chunk.css.map": "/hungerkiller/static/css/main.17ad300d.chunk.css.map",
     "static/js/2.98363d24.chunk.js.LICENSE.txt": "/hungerkiller/static/js/2.98363d24.chunk.js.LICENSE.txt",
     "static/media/image.jpg": "/hungerkiller/static/media/image.2f025597.jpg",
     "static/media/image2.jpg": "/hungerkiller/static/media/image2.a549d6d1.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3228def7.js",
     "static/js/2.98363d24.chunk.js",
-    "static/css/main.33a8ec5d.chunk.css",
-    "static/js/main.b7fa2936.chunk.js"
+    "static/css/main.17ad300d.chunk.css",
+    "static/js/main.c5fb4bb0.chunk.js"
   ]
 }
