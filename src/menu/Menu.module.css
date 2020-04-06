@@ -1,12 +1,12 @@
 .menuContainer {
-    position: absolute;
-    top: 0rem;
-    height: 100vh;
-    width: 28rem;
-    transition: all .3s ease-out;
-    background-color: #5acced;
-    -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
-            box-shadow: 10px 10px 60px #3b879c, -10px -10px 10px #79ffff;
-            border-radius: 0 20px 20px 0;
-    z-index: 1;
+  position: absolute;
+  top: 0rem;
+  height: 100vh;
+  width: 28rem;
+  transition: all 0.3s ease-out;
+  background-color: #5acced;
+  -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
+  box-shadow: 10px 10px 60px #3b879c, -10px -10px 10px #79ffff;
+  border-radius: 0 20px 20px 0;
+  z-index: 1;
 }
