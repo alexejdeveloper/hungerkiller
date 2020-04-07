@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b85e0897c70d243f2e74c04bf5d6e477",
+    "revision": "eaedcc43ca48c7aca1d54cdf94536bb9",
     "url": "/hungerkiller/index.html"
   },
   {
-    "revision": "07453d62ac4d06d923ab",
-    "url": "/hungerkiller/static/css/main.17ad300d.chunk.css"
+    "revision": "660488a19315a9a3154a",
+    "url": "/hungerkiller/static/css/main.89e7f84a.chunk.css"
   },
   {
     "revision": "0778c0b9dbc409b0bbe5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hungerkiller/static/js/2.98363d24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07453d62ac4d06d923ab",
+    "revision": "660488a19315a9a3154a",
     "url": "/hungerkiller/static/js/main.c5fb4bb0.chunk.js"
   },
   {
