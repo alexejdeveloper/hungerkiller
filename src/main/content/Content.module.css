@@ -1,20 +1,27 @@
 .content {
-    border-radius: 50px;
-    background: #5acced;
-    -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
-            box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
+  border-radius: 60px;
+  background: #5acced;
+  -webkit-box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
+  box-shadow: 20px 20px 60px #3b879c, -20px -20px 60px #79ffff;
+  height: 40rem;
+  width: 96%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+@media (min-width: 900px) {
+  .content {
     width: 70%;
-    height: 40rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 6rem;
-    text-align: center;
-    margin-top: 4rem;
+  }
 }
 
 .imgContent {
-        border-radius: 60px;
-        height: 80%;
-        max-width: 80%;
+  border-radius: 60px;
+  height: 90%;
+  max-width: 95%;
 }

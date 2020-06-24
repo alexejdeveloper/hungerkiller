@@ -1,8 +1,8 @@
 import React from 'react';
 import './Button.css';
-import image from './images/image.jpg';
-import image2 from './images/image2.jpg';
-import image3 from './images/image3.jpg';
+import image from '../../assets/images/image.jpg';
+import image2 from '../../assets/images/image2.jpg';
+import image3 from '../../assets/images/image3.jpg';
 import tipsJson from '../../assets/data/tips';
 
 const images = [image, image2, image3];
